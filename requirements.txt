@@ -23,3 +23,4 @@ rtree
 pyembree
 sphinx
 ipykernel
+PyQt5
